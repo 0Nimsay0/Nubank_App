@@ -1,11 +1,11 @@
 # Nubank\_App
 
-🎯 **Propósito**
+ **Propósito**
 Aplicativo Flutter inspirado no design da interface do Nubank, para fins educativos. Este projeto serve como base para aprendizado e prototipação de funcionalidades mobile.
 
 ---
 
-## 🗂️ Estrutura do Repositório
+## Estrutura do Repositório
 
 ```text
 /lib
@@ -21,7 +21,7 @@ Aplicativo Flutter inspirado no design da interface do Nubank, para fins educati
 
 ---
 
-## 🚀 Funcionalidades Principais
+## Funcionalidades Principais
 
 * Layout inspirado no app Nubank (conta, cartões, cores, tipografia)
 * Navegação estruturada entre páginas
@@ -30,7 +30,7 @@ Aplicativo Flutter inspirado no design da interface do Nubank, para fins educati
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 | Tecnologia                | Finalidade                            |
 | ------------------------- | ------------------------------------- |
@@ -39,7 +39,7 @@ Aplicativo Flutter inspirado no design da interface do Nubank, para fins educati
 | GetX                      | Gerenciamento de estado e rota        |
 | Material Icons / MdiIcons | Ícones no estilo Nubank               |
 
-## 📌 Exemplos de Código
+## Exemplos de Código
 
 **IconButton com GetX – mostrar/ocultar visibilidade**
 
@@ -74,7 +74,7 @@ RichText(
 
 ---
 
-## 🔗 Links Relacionados
+## Links Relacionados
 
 * Documentação Flutter: [https://flutter.dev](https://flutter.dev)
 * GetX: [https://pub.dev/packages/get](https://pub.dev/packages/get)
