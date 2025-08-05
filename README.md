@@ -1,6 +1,5 @@
 # Nubank\_App
 
- **Propósito**
 Aplicativo Flutter inspirado no design da interface do Nubank, para fins educativos. Este projeto serve como base para aprendizado e prototipação de funcionalidades mobile.
 
 ---
