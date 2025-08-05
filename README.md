@@ -1,3 +1,3 @@
-# nubank
+# Nubank
 
-A new Flutter project.
+Projeto em Flutter & Dart baseado na interface do Nubank
